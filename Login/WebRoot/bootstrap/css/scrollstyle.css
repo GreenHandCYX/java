@@ -1,0 +1,16 @@
+﻿.box{
+margin:0 auto;
+ width:1190px; 
+}
+#btn{
+display:none;
+	width:40px;
+	height:40px;
+	position:fixed;
+	right:50px;
+	bottom:50px;
+	background:url(http://img.mukewang.com/535e0dc100010e9c00400080.jpg) no-repeat;	
+}
+#btn:hover{
+	background:url(http://img.mukewang.com/535e0dc100010e9c00400080.jpg) no-repeat 1px -39px;	
+}

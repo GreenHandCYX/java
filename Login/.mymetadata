@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="wutu"
+  id="myeclipse.1444822915093"
+  context-root="/Login"
+  j2ee-spec="5.0"
+  archive="wutu.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
